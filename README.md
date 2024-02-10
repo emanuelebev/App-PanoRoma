@@ -80,7 +80,7 @@
   }
 </style>
 
-<div syle="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 30px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 30px;">
   <img src="img/Screenshot-1.png" alt="">
   <img src="img/Screenshot-2.png" alt="">
   <img src="img/Screenshot-3.png" alt="">
