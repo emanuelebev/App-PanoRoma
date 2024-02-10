@@ -111,13 +111,13 @@ PanoRoma is an Android application developed in Kotlin that offers users a visua
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Panoramic Views: Explore a collection of stunning panoramic views of Rome.
-- [ ] Detailed Information: View detailed information about each panorama, including location, description, and historical significance.
-- [ ] Search Filters: Easily filter panoramas by location, category, or popularity to find the perfect view.
-- [ ] Interactive Map: Navigate through Rome's panoramic views with an interactive map interface.
-- [ ] Favorites: Save your favorite panoramas for quick access later.
+- [ ] **Panoramic Views**: Explore a collection of stunning panoramic views of Rome.
+- [ ] **Detailed Information**: View detailed information about each panorama, including location, description, and historical significance.
+- [ ] **Search Filters**: Easily filter panoramas by location, category, or popularity to find the perfect view.
+- [ ] **Interactive Map**: Navigate through Rome's panoramic views with an interactive map interface.
+- [ ] **Favorites**: Save your favorite panoramas for quick access later.
 
-    - [ ] User Profiles: Create a profile to personalize your experience and keep track of your favorites and recent views.
+    - [ ] **User Profiles**: Create a profile to personalize your experience and keep track of your favorites and recent views.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
