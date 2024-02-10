@@ -93,6 +93,26 @@
   <!-- Add more images as needed -->
 </div>
 
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Nikola 👋</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
 PanoRoma is an Android application developed in Kotlin that offers users a visually captivating experience to explore Rome's panoramic views. With features like detailed panorama information, search filters, and an interactive map, PanoRoma provides both locals and tourists with an intuitive tool for discovering Rome's breathtaking vistas.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
