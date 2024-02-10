@@ -67,27 +67,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<style>
-  /* Define the grid layout */
-  .image-grid {
-    
-  }
 
-  /* Style the images */
-  .image-grid img {
-    width: 100%; /* Make images fill their container */
-    height: auto; /* Maintain aspect ratio */
-  }
-</style>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 30px;">
-  <img src="img/Screenshot-1.png" alt="">
-  <img src="img/Screenshot-2.png" alt="">
-  <img src="img/Screenshot-3.png" alt="">
-  <img src="img/Screenshot-4.png" alt="">
-  <img src="img/Screenshot-5.png" alt="">
-  <img src="img/Screenshot-6.png" alt="">
-  <img src="img/Screenshot-7.png" alt="">
+<div>
+  <img src="img/Screenshot-1.png" alt="" width="200" height="400">
+  <img src="img/Screenshot-2.png" alt="" width="200" height="400">
+  <img src="img/Screenshot-3.png" alt="" width="200" height="400">
+  <img src="img/Screenshot-4.png" alt="" width="200" height="400">
+  <img src="img/Screenshot-5.png" alt="" width="200" height="400">
+  <img src="img/Screenshot-6.png" alt="" width="200" height="400">
+  <img src="img/Screenshot-7.png" alt="" width="200" height="400">
 </div>
 
 PanoRoma is an Android application developed in Kotlin that offers users a visually captivating experience to explore Rome's panoramic views. With features like detailed panorama information, search filters, and an interactive map, PanoRoma provides both locals and tourists with an intuitive tool for discovering Rome's breathtaking vistas.
